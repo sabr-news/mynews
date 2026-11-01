@@ -1,0 +1,48 @@
+name: collect
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: mynews
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: restore db
+        uses: actions/cache/restore@v4
+        with:
+          path: data
+          key: mynews-data-${{ github.run_id }}
+          restore-keys: mynews-data-
+      - name: collect and export
+        env:
+          RADAR_DATA: ${{ github.workspace }}/data
+          PYTHONUTF8: "1"
+        run: |
+          python tools/build_static.py site
+          python -m radar.ci_run site/data
+      - name: save db
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: mynews-data-${{ github.run_id }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
