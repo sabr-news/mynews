@@ -1,0 +1,2472 @@
+[
+ {
+  "name": "Greek City Times",
+  "url": "https://greekcitytimes.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792769185,
+  "site": "greekcitytimes.com"
+ },
+ {
+  "name": "worldenergynews.gr",
+  "url": "https://worldenergynews.gr/rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792769185,
+  "site": "worldenergynews.gr"
+ },
+ {
+  "name": "US Muslims",
+  "url": "https://www.usmuslims.com/service/rss.php",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792769185,
+  "site": "usmuslims.com"
+ },
+ {
+  "name": "odatv.com",
+  "url": "https://odatv.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792769839,
+  "site": "odatv.com"
+ },
+ {
+  "name": "عربي21",
+  "url": "https://arabi21.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792774582,
+  "site": "arabi21.com"
+ },
+ {
+  "name": "فيتو",
+  "url": "https://www.vetogate.com/rss.aspx",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792774582,
+  "site": "vetogate.com"
+ },
+ {
+  "name": "www.middle-east-online.com",
+  "url": "https://middle-east-online.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792774582,
+  "site": "middle-east-online.com"
+ },
+ {
+  "name": "MCG24",
+  "url": "https://www.mcg24.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792774582,
+  "site": "mcg24.com"
+ },
+ {
+  "name": "Haber Gündemim",
+  "url": "https://habergundemim.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792774582,
+  "site": "habergundemim.com"
+ },
+ {
+  "name": "Pagenews.gr",
+  "url": "https://pagenews.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "pagenews.gr"
+ },
+ {
+  "name": "In.gr",
+  "url": "https://in.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "in.gr"
+ },
+ {
+  "name": "www.winwin.com",
+  "url": "https://winwin.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "winwin.com"
+ },
+ {
+  "name": "Toplumsal Haber",
+  "url": "https://www.toplumsal.com.tr/xml/rss/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "toplumsal.com.tr"
+ },
+ {
+  "name": "Son Dakika",
+  "url": "http://rss.sondakika.com/rss.asp",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "sondakika.com"
+ },
+ {
+  "name": "سكاي نيوز عربية",
+  "url": "https://skynewsarabia.com/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "skynewsarabia.com"
+ },
+ {
+  "name": "iapogevmatini.gr",
+  "url": "https://www.iapogevmatini.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792778283,
+  "site": "iapogevmatini.gr"
+ },
+ {
+  "name": "The Libya Observer",
+  "url": "https://ar.libyaobserver.ly/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "ar.libyaobserver.ly"
+ },
+ {
+  "name": "صحيفة الساعة 24",
+  "url": "https://www.alsaaa24.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "alsaaa24.com"
+ },
+ {
+  "name": "Global Arab Network",
+  "url": "https://english.globalarabnetwork.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "english.globalarabnetwork.com"
+ },
+ {
+  "name": "Capital.gr",
+  "url": "https://www.capital.gr/api/tags/all/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "capital.gr"
+ },
+ {
+  "name": "Attasiaa",
+  "url": "https://www.attasiaa.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "attasiaa.com"
+ },
+ {
+  "name": "Euronews",
+  "url": "https://arabic.euronews.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "arabic.euronews.com"
+ },
+ {
+  "name": "Ανιχνεύσεις.gr",
+  "url": "https://www.anixneuseis.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792786113,
+  "site": "anixneuseis.gr"
+ },
+ {
+  "name": "TurkPress",
+  "url": "https://www.turkpress.co/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792789844,
+  "site": "turkpress.co"
+ },
+ {
+  "name": "https://www.opinyatimes.com/",
+  "url": "https://www.opinyatimes.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792789844,
+  "site": "opinyatimes.com"
+ },
+ {
+  "name": "NeaKriti",
+  "url": "https://neakriti.gr/rss.xml",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792789844,
+  "site": "neakriti.gr"
+ },
+ {
+  "name": "جريدة القدس",
+  "url": "https://alquds.com/feed/",
+  "lang": "he",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792789844,
+  "site": "alquds.com"
+ },
+ {
+  "name": "AKŞAM",
+  "url": "https://aksam.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792789844,
+  "site": "aksam.com.tr"
+ },
+ {
+  "name": "The TOC",
+  "url": "https://thetoc.gr/rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792793579,
+  "site": "thetoc.gr"
+ },
+ {
+  "name": "Bankingnews",
+  "url": "https://bankingnews.gr/rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792793579,
+  "site": "bankingnews.gr"
+ },
+ {
+  "name": "العربي الجديد",
+  "url": "https://www.aajsa.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792793579,
+  "site": "aajsa.com"
+ },
+ {
+  "name": "عين ليبيا",
+  "url": "https://www.eanlibya.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792948209,
+  "site": "eanlibya.com"
+ },
+ {
+  "name": "Canlı Gaste",
+  "url": "https://canligaste.com/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792948209,
+  "site": "canligaste.com"
+ },
+ {
+  "name": "Manşet Haber",
+  "url": "https://mansethaber.com/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792948209,
+  "site": "mansethaber.com"
+ },
+ {
+  "name": "Europost.gr",
+  "url": "https://europost.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "europost.gr"
+ },
+ {
+  "name": "صدى البلد",
+  "url": "https://www.elbalad.news/rss.aspx",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "elbalad.news"
+ },
+ {
+  "name": "akhbarlibya24.net",
+  "url": "https://akhbarlibya24.net/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "akhbarlibya24.net"
+ },
+ {
+  "name": "أخبار الغد",
+  "url": "https://ghadnews.net/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "ghadnews.net"
+ },
+ {
+  "name": "δεδομενο",
+  "url": "https://www.dedomeno.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "dedomeno.gr"
+ },
+ {
+  "name": "Babnet",
+  "url": "https://www.babnet.net/feed.php",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "babnet.net"
+ },
+ {
+  "name": "الوقائع الإخبارية",
+  "url": "https://alwakaai.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "alwakaai.com"
+ },
+ {
+  "name": "https://www.youlyou.com/",
+  "url": "https://youlyou.com/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792959040,
+  "site": "youlyou.com"
+ },
+ {
+  "name": "iAxia -",
+  "url": "https://www.iaxia.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792962713,
+  "site": "iaxia.gr"
+ },
+ {
+  "name": "HappenedNow.gr",
+  "url": "https://happenednow.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792962713,
+  "site": "happenednow.gr"
+ },
+ {
+  "name": "TRHaber",
+  "url": "https://www.trhaber.com.tr/rss/feed",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792962713,
+  "site": "trhaber.com.tr"
+ },
+ {
+  "name": "Trendsnafrica",
+  "url": "https://trendsnafrica.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792962713,
+  "site": "trendsnafrica.com"
+ },
+ {
+  "name": "Sada Elbalad English",
+  "url": "https://see.news/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792962713,
+  "site": "see.news"
+ },
+ {
+  "name": "Fana News -",
+  "url": "https://fananews.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792966415,
+  "site": "fananews.com"
+ },
+ {
+  "name": "ENIKOS",
+  "url": "https://www.enikos.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792966415,
+  "site": "enikos.gr"
+ },
+ {
+  "name": "Tunisie Telegraph",
+  "url": "https://tunisie-telegraph.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792966415,
+  "site": "tunisie-telegraph.com"
+ },
+ {
+  "name": "ProtoThema",
+  "url": "https://protothema.gr/rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792966415,
+  "site": "protothema.gr"
+ },
+ {
+  "name": "Pentapostagma",
+  "url": "https://pentapostagma.gr/rss.xml",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792966415,
+  "site": "pentapostagma.gr"
+ },
+ {
+  "name": "فبراير",
+  "url": "https://febp.ly/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "febp.ly"
+ },
+ {
+  "name": "ليبيا الأحرار",
+  "url": "https://libyaalahrar.tv/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "libyaalahrar.tv"
+ },
+ {
+  "name": "المرصد",
+  "url": "https://almarsad.co/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "almarsad.co"
+ },
+ {
+  "name": "ليبيان إكسبرس",
+  "url": "https://www.libyanexpress.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "libyanexpress.com"
+ },
+ {
+  "name": "فواصل",
+  "url": "https://fawaselmedia.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "fawaselmedia.com"
+ },
+ {
+  "name": "طرابلس بوست",
+  "url": "https://tripolipost.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "tripolipost.com"
+ },
+ {
+  "name": "المفوضية العليا للانتخابات",
+  "url": "https://hnec.ly/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792968082,
+  "site": "hnec.ly"
+ },
+ {
+  "name": "Mali Actu",
+  "url": "https://maliactu.net/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968149,
+  "site": "maliactu.net"
+ },
+ {
+  "name": "olympia",
+  "url": "https://www.olympia.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968149,
+  "site": "olympia.gr"
+ },
+ {
+  "name": "قناة النيل للأخبار",
+  "url": "https://nile.eg/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968149,
+  "site": "nile.eg"
+ },
+ {
+  "name": "La Presse de Tunisie",
+  "url": "https://www.lapresse.tn/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968149,
+  "site": "lapresse.tn"
+ },
+ {
+  "name": "Cyprus Inform",
+  "url": "https://www.kiprinform.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968457,
+  "site": "kiprinform.com"
+ },
+ {
+  "name": "Ethnos",
+  "url": "https://www.ethnos.gr/rss-news?positionid=1",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968457,
+  "site": "ethnos.gr"
+ },
+ {
+  "name": "Cretaone",
+  "url": "https://cretaone.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968457,
+  "site": "cretaone.gr"
+ },
+ {
+  "name": "Aydınlık",
+  "url": "https://www.aydinlik.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968457,
+  "site": "aydinlik.com.tr"
+ },
+ {
+  "name": "الشرق للأخبار",
+  "url": "https://asharq.com/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792968457,
+  "site": "asharq.com"
+ },
+ {
+  "name": "ليبيا أخبار",
+  "url": "https://www.libyaakhbar.com/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1792969048,
+  "site": "libyaakhbar.com"
+ },
+ {
+  "name": "العربية (يوتيوب)",
+  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCahpxixMCwoANAftn6IxkTg",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969048,
+  "site": "youtube.com"
+ },
+ {
+  "name": "TRT World",
+  "url": "https://www.trtworld.com/feed/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969131,
+  "site": "trtworld.com"
+ },
+ {
+  "name": "ssbulten",
+  "url": "https://ssbulten.com.tr/feed",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969131,
+  "site": "ssbulten.com.tr"
+ },
+ {
+  "name": "nirvanahaber.com",
+  "url": "https://nirvanahaber.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969131,
+  "site": "nirvanahaber.com"
+ },
+ {
+  "name": "Mardin Life",
+  "url": "https://www.mardinlife.com/feed/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969131,
+  "site": "mardinlife.com"
+ },
+ {
+  "name": "İnternet Haber",
+  "url": "https://internethaber.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969131,
+  "site": "internethaber.com"
+ },
+ {
+  "name": "بي بي سي عربي (يوتيوب)",
+  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCelk6aHijZq-GJBBB9YpReA",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969763,
+  "site": "youtube.com"
+ },
+ {
+  "name": "تي آر تي عربي (يوتيوب)",
+  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5GvVahlgulCyo4cshSmbcg",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969763,
+  "site": "youtube.com"
+ },
+ {
+  "name": "العربي الجديد - ليبيا",
+  "url": "https://www.alaraby.co.uk/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "aajsy.com"
+ },
+ {
+  "name": "شبكة رؤية الإخبارية",
+  "url": "https://roayahnews.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "roayahnews.com"
+ },
+ {
+  "name": "naftemporiki.gr",
+  "url": "https://www.naftemporiki.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "naftemporiki.gr"
+ },
+ {
+  "name": "Lykavitos.gr",
+  "url": "https://www.lykavitos.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "lykavitos.gr"
+ },
+ {
+  "name": "fokus-afrika.de",
+  "url": "https://fokus-afrika.de/feed/",
+  "lang": "de",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "fokus-afrika.de"
+ },
+ {
+  "name": "Proto Thema",
+  "url": "https://en.protothema.gr/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "en.protothema.gr"
+ },
+ {
+  "name": "echoroukonline.com",
+  "url": "https://echoroukonline.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "echoroukonline.com"
+ },
+ {
+  "name": "Doğruhaber",
+  "url": "https://dogruhaber.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792969765,
+  "site": "dogruhaber.com.tr"
+ },
+ {
+  "name": "Al Jazeera",
+  "url": "https://www.aljazeera.com/xml/rss/all.xml",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "aljazeera.com"
+ },
+ {
+  "name": "Al-Monitor",
+  "url": "https://al-monitor.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "al-monitor.com"
+ },
+ {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/en/rss",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "rfi.fr"
+ },
+ {
+  "name": "Middle East Eye",
+  "url": "https://middleeasteye.net/rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "middleeasteye.net"
+ },
+ {
+  "name": "Demócrata",
+  "url": "https://www.democrata.es/uploads/feeds/feed_democrata_es.xml",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "democrata.es"
+ },
+ {
+  "name": "annahar.com",
+  "url": "https://annahar.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970092,
+  "site": "annahar.com"
+ },
+ {
+  "name": "جريدة العدد الاول",
+  "url": "https://aladadalawalnews.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970531,
+  "site": "aladadalawalnews.com"
+ },
+ {
+  "name": "Yeni Şafak",
+  "url": "https://yenisafak.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970531,
+  "site": "yenisafak.com"
+ },
+ {
+  "name": "Webdo",
+  "url": "https://www.webdo.tn/fr/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970531,
+  "site": "webdo.tn"
+ },
+ {
+  "name": "خبر صح",
+  "url": "https://watan.khabars7.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1792970531,
+  "site": "watan.khabars7.com"
+ },
+ {
+  "name": "tr.mehrnews",
+  "url": "https://tr.mehrnews.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "tr.mehrnews.com"
+ },
+ {
+  "name": "tovima.com",
+  "url": "https://tovima.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "tovima.com"
+ },
+ {
+  "name": "topontiki.gr",
+  "url": "https://topontiki.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "topontiki.gr"
+ },
+ {
+  "name": "ThePressroom",
+  "url": "https://thepressroom.gr/rss.xml",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "thepressroom.gr"
+ },
+ {
+  "name": "The National Herald",
+  "url": "https://thenationalherald.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "thenationalherald.com"
+ },
+ {
+  "name": "Teleprensa",
+  "url": "https://www.teleprensa.com/rss/",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "teleprensa.com"
+ },
+ {
+  "name": "ΤΑ ΝΕΑ",
+  "url": "https://tanea.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "tanea.gr"
+ },
+ {
+  "name": "sundayworld.co.za",
+  "url": "https://sundayworld.co.za/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793006988,
+  "site": "sundayworld.co.za"
+ },
+ {
+  "name": "صحافتك",
+  "url": "https://sahafatak.net/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "sahafatak.net"
+ },
+ {
+  "name": "Italpress",
+  "url": "https://www.italpress.com/feed/",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "italpress.com"
+ },
+ {
+  "name": "Ensonhaber",
+  "url": "https://ensonhaber.com/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "ensonhaber.com"
+ },
+ {
+  "name": "Bugün Kıbrıs",
+  "url": "https://bugunkibris.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "bugunkibris.com"
+ },
+ {
+  "name": "عاجل",
+  "url": "https://ajel.sa/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "ajel.sa"
+ },
+ {
+  "name": "Türkinform",
+  "url": "https://turkinform.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "turkinform.com.tr"
+ },
+ {
+  "name": "Takvim",
+  "url": "https://www.takvim.com.tr/rss/anasayfa",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "takvim.com.tr"
+ },
+ {
+  "name": "Sigmalive",
+  "url": "https://sigmalive.com/rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "sigmalive.com"
+ },
+ {
+  "name": "MyJoyOnline",
+  "url": "https://www.myjoyonline.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "myjoyonline.com"
+ },
+ {
+  "name": "Haber 7",
+  "url": "https://i12.haber7.net/sondakika/newsstand/latest.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "haber7.com"
+ },
+ {
+  "name": "موقع المنشر الاخبارى",
+  "url": "https://elmanshar.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793007844,
+  "site": "elmanshar.com"
+ },
+ {
+  "name": "التلفزيون العربي",
+  "url": "https://alaraby.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793014066,
+  "site": "alaraby.com"
+ },
+ {
+  "name": "Réalités Magazine",
+  "url": "https://realites.com.tn/fr/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793014066,
+  "site": "realites.com.tn"
+ },
+ {
+  "name": "حقائق اون لاين",
+  "url": "https://hakaekonline.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793014066,
+  "site": "hakaekonline.com"
+ },
+ {
+  "name": "APAnews - Agence de Presse Africaine",
+  "url": "https://fr.apanews.net/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793014066,
+  "site": "fr.apanews.net"
+ },
+ {
+  "name": "Agence Ecofin",
+  "url": "https://agenceecofin.com/component/obrss/agence-ecofin-full",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "agenceecofin.com"
+ },
+ {
+  "name": "https://alsaudi.news/",
+  "url": "https://alsaudi.news/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "alsaudi.news"
+ },
+ {
+  "name": "Il Sole 24 Ore",
+  "url": "https://www.ilsole24ore.com/rss/homepage.xml",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "ilsole24ore.com"
+ },
+ {
+  "name": "Espacemanager",
+  "url": "https://espacemanager.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "espacemanager.com"
+ },
+ {
+  "name": "diwanfm.net",
+  "url": "https://diwanfm.net/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "diwanfm.net"
+ },
+ {
+  "name": "Cyprus Mail",
+  "url": "https://cyprus-mail.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793018912,
+  "site": "cyprus-mail.com"
+ },
+ {
+  "name": "Citi Sports Online",
+  "url": "https://citisportsonline.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "citisportsonline.com"
+ },
+ {
+  "name": "Bengü Türk",
+  "url": "https://www.benguturk.com/service/rss.php",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "benguturk.com"
+ },
+ {
+  "name": "Avaz Türk",
+  "url": "https://avazturk.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "avazturk.com"
+ },
+ {
+  "name": "برس بي",
+  "url": "https://arabic.pressbee.net/rss.php",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "arabic.pressbee.net"
+ },
+ {
+  "name": "A Haber",
+  "url": "https://www.ahaber.com.tr/rss/anasayfa.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "ahaber.com.tr"
+ },
+ {
+  "name": "African Manager",
+  "url": "https://africanmanager.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "africanmanager.com"
+ },
+ {
+  "name": "وكالة أنباء تركيا",
+  "url": "https://tr.agency/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793019016,
+  "site": "tr.agency"
+ },
+ {
+  "name": "ИА Красная Весна",
+  "url": "https://rossaprimavera.ru/rss",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793022799,
+  "site": "rossaprimavera.ru"
+ },
+ {
+  "name": "Rodopi Press",
+  "url": "https://rodopipress.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793022799,
+  "site": "rodopipress.gr"
+ },
+ {
+  "name": "Envanter Medya",
+  "url": "https://envantermedya.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793026536,
+  "site": "envantermedya.com"
+ },
+ {
+  "name": "https://www.babaocagi.com/",
+  "url": "https://babaocagi.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793026536,
+  "site": "babaocagi.com.tr"
+ },
+ {
+  "name": "Alphafreepress.gr",
+  "url": "https://alphafreepress.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793026536,
+  "site": "alphafreepress.gr"
+ },
+ {
+  "name": "ΠΟΛΙΤΗΣ",
+  "url": "https://politis.com.cy/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793026536,
+  "site": "politis.com.cy"
+ },
+ {
+  "name": "Life.ru",
+  "url": "https://life.ru/rss",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "life.ru"
+ },
+ {
+  "name": "NewsIT",
+  "url": "https://www.newsit.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "newsit.gr"
+ },
+ {
+  "name": "Newsbomb",
+  "url": "https://www.newsbomb.gr/oles-oi-eidhseis?format=feed&type=rss",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "newsbomb.gr"
+ },
+ {
+  "name": "News18",
+  "url": "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "news18.com"
+ },
+ {
+  "name": "Рамблер/новости",
+  "url": "https://news.rambler.ru/rss/head/?limit=100",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "news.rambler.ru"
+ },
+ {
+  "name": "NapoliPiù",
+  "url": "https://napolipiu.com/feed/",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "napolipiu.com"
+ },
+ {
+  "name": "Middle East Forum",
+  "url": "https://www.meforum.org/index.rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793030050,
+  "site": "meforum.org"
+ },
+ {
+  "name": "www.horizons.dz",
+  "url": "https://horizons.dz/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793034086,
+  "site": "horizons.dz"
+ },
+ {
+  "name": "Ankara Masası",
+  "url": "https://ankaramasasi.com.tr/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793034086,
+  "site": "ankaramasasi.com.tr"
+ },
+ {
+  "name": "علامات أونلاين",
+  "url": "https://alamatonline.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793034086,
+  "site": "alamatonline.com"
+ },
+ {
+  "name": "Formiche.net",
+  "url": "https://formiche.net/feed/",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793042447,
+  "site": "formiche.net"
+ },
+ {
+  "name": "شبكة يافا الإخبارية",
+  "url": "https://yaffaps.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793042447,
+  "site": "yaffaps.com"
+ },
+ {
+  "name": "Milat Gazetesi",
+  "url": "https://milatgazetesi.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793042447,
+  "site": "milatgazetesi.com"
+ },
+ {
+  "name": "مصر تايمز",
+  "url": "https://masrtimes.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793042447,
+  "site": "masrtimes.com"
+ },
+ {
+  "name": "مرسال قطر",
+  "url": "https://marsalqatar.qa/rss/category/all",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793042447,
+  "site": "marsalqatar.qa"
+ },
+ {
+  "name": "الخلاصة نت",
+  "url": "https://khlaasa.net/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793046728,
+  "site": "khlaasa.net"
+ },
+ {
+  "name": "Le Temps News",
+  "url": "https://letemps.news/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793046728,
+  "site": "letemps.news"
+ },
+ {
+  "name": "dokuz8HABER",
+  "url": "https://dokuz8haber.net/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793046728,
+  "site": "dokuz8haber.net"
+ },
+ {
+  "name": "TRT Russian.",
+  "url": "https://www.trtrussian.com/feed/rss.xml",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793050393,
+  "site": "trtrussian.com"
+ },
+ {
+  "name": "sdpnoticias",
+  "url": "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793050393,
+  "site": "sdpnoticias.com"
+ },
+ {
+  "name": "SBC TV",
+  "url": "https://www.sbctv.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793050393,
+  "site": "sbctv.gr"
+ },
+ {
+  "name": "newsfire.gr",
+  "url": "https://newsfire.gr/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793050393,
+  "site": "newsfire.gr"
+ },
+ {
+  "name": "Malatya Güncel",
+  "url": "https://www.malatyaguncel.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793050393,
+  "site": "malatyaguncel.com"
+ },
+ {
+  "name": "emirates24",
+  "url": "https://emirates24.net/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793095940,
+  "site": "emirates24.net"
+ },
+ {
+  "name": "وردنا",
+  "url": "https://waradana.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793095940,
+  "site": "waradana.com"
+ },
+ {
+  "name": "Jeune Afrique",
+  "url": "https://jeuneafrique.com/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793096535,
+  "site": "jeuneafrique.com"
+ },
+ {
+  "name": "اكسبراس أف أم",
+  "url": "https://radioexpressfm.com/ar/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793096535,
+  "site": "radioexpressfm.com"
+ },
+ {
+  "name": "Politica.gr",
+  "url": "https://politica.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793096535,
+  "site": "politica.gr"
+ },
+ {
+  "name": "Ortadoğu Gazetesi",
+  "url": "https://www.ortadogugazetesi.com/rss/news",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793100229,
+  "site": "ortadogugazetesi.com"
+ },
+ {
+  "name": "Kent Gazetesi",
+  "url": "https://www.kentgazetesi.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793100229,
+  "site": "kentgazetesi.com"
+ },
+ {
+  "name": "kalimaiq.com",
+  "url": "https://kalimaiq.com/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793100229,
+  "site": "kalimaiq.com"
+ },
+ {
+  "name": "Le Jeune Indépendant",
+  "url": "https://jeune-independant.net/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793100229,
+  "site": "jeune-independant.net"
+ },
+ {
+  "name": "Haber Vitrini",
+  "url": "https://www.habervitrini.com/rss.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793103920,
+  "site": "habervitrini.com"
+ },
+ {
+  "name": "en.yenisafak",
+  "url": "https://en.yenisafak.com/rss",
+  "lang": "de",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793103920,
+  "site": "en.yenisafak.com"
+ },
+ {
+  "name": "El otro enfoque",
+  "url": "https://elotroenfoque.mx/index.php/feed/",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793103920,
+  "site": "elotroenfoque.mx"
+ },
+ {
+  "name": "الأسبوع",
+  "url": "https://www.elaosboa.com/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793103920,
+  "site": "elaosboa.com"
+ },
+ {
+  "name": "TRT عربي",
+  "url": "https://www.trtarabi.com/feed/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "trtarabi.com"
+ },
+ {
+  "name": "SuperHaber",
+  "url": "https://www.superhaber.com/service/rss.php",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "superhaber.com"
+ },
+ {
+  "name": "Platino News",
+  "url": "https://platino.news/feed/",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "platino.news"
+ },
+ {
+  "name": "News.gr",
+  "url": "https://news.gr/rss.ashx",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "news.gr"
+ },
+ {
+  "name": "The New Arab",
+  "url": "https://www.newarab.com/rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "newarab.com"
+ },
+ {
+  "name": "إقرأ نيوز",
+  "url": "https://iqraa.news/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "iqraa.news"
+ },
+ {
+  "name": "TV5MONDE - Informations",
+  "url": "https://information.tv5monde.com/rsstaxo/all",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107086,
+  "site": "information.tv5monde.com"
+ },
+ {
+  "name": "iEidiseis",
+  "url": "https://ieidiseis.gr/news?format=feed",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107616,
+  "site": "ieidiseis.gr"
+ },
+ {
+  "name": "iefimerida.gr",
+  "url": "https://iefimerida.gr/rss.xml",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107616,
+  "site": "iefimerida.gr"
+ },
+ {
+  "name": "Η Άποψη",
+  "url": "https://iapopsi.gr/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107616,
+  "site": "iapopsi.gr"
+ },
+ {
+  "name": "Haber Hürriyeti",
+  "url": "https://www.haberhurriyeti.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793107616,
+  "site": "haberhurriyeti.com"
+ },
+ {
+  "name": "صحيفة اخبارنا",
+  "url": "https://www.akhbrna.ae/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793111503,
+  "site": "akhbrna.ae"
+ },
+ {
+  "name": "The Whistler Newspaper",
+  "url": "https://thewhistler.ng/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793111503,
+  "site": "thewhistler.ng"
+ },
+ {
+  "name": "σκαι κρητης",
+  "url": "https://skaikritis.gr/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793111503,
+  "site": "skaikritis.gr"
+ },
+ {
+  "name": "Orta Doğu Haber",
+  "url": "https://www.ortadoguhaber.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793111503,
+  "site": "ortadoguhaber.com"
+ },
+ {
+  "name": "Kuali",
+  "url": "https://kuali.com.mx/web/feed/",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793111503,
+  "site": "kuali.com.mx"
+ },
+ {
+  "name": "شبكة دال",
+  "url": "https://d-dall.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793115770,
+  "site": "d-dall.com"
+ },
+ {
+  "name": "gdhdijital",
+  "url": "https://gdhdijital.com/rss/tum.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793115770,
+  "site": "gdhdijital.com"
+ },
+ {
+  "name": "إيلاف",
+  "url": "https://elaph.com/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793118065,
+  "site": "elaph.com"
+ },
+ {
+  "name": "Flash.gr",
+  "url": "https://www.flash.gr/feed",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793118065,
+  "site": "flash.gr"
+ },
+ {
+  "name": "https://elmoudjaz.dz/",
+  "url": "https://elmoudjaz.dz/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793118065,
+  "site": "elmoudjaz.dz"
+ },
+ {
+  "name": "دليل البلد",
+  "url": "https://www.elbalad140.com/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793118065,
+  "site": "elbalad140.com"
+ },
+ {
+  "name": "www.jordannews.jo",
+  "url": "https://jordannews.jo/rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793119467,
+  "site": "jordannews.jo"
+ },
+ {
+  "name": "mononews.gr",
+  "url": "https://mononews.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793124835,
+  "site": "mononews.gr"
+ },
+ {
+  "name": "هذا اليوم",
+  "url": "https://hathalyoum.net/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793124835,
+  "site": "hathalyoum.net"
+ },
+ {
+  "name": "Baird Maritime",
+  "url": "https://bairdmaritime.com/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793128792,
+  "site": "bairdmaritime.com"
+ },
+ {
+  "name": "The Eastleigh Voice",
+  "url": "https://eastleighvoice.co.ke/rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793136052,
+  "site": "eastleighvoice.co.ke"
+ },
+ {
+  "name": "Η Βραδυνή",
+  "url": "https://www.vradini.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793136052,
+  "site": "vradini.gr"
+ },
+ {
+  "name": "Tilegrafimanews",
+  "url": "https://tilegrafimanews.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793136052,
+  "site": "tilegrafimanews.gr"
+ },
+ {
+  "name": "Lenta News",
+  "url": "https://lenta.news/rss/google-newsstand/main/",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793139800,
+  "site": "lenta.news"
+ },
+ {
+  "name": "Интерфакс",
+  "url": "https://www.interfax.ru/rss",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793141787,
+  "site": "interfax.ru"
+ },
+ {
+  "name": "Diriliş Postası",
+  "url": "https://dirilispostasi.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793141787,
+  "site": "dirilispostasi.com"
+ },
+ {
+  "name": "difernews.gr",
+  "url": "https://difernews.gr/feed/",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793141787,
+  "site": "difernews.gr"
+ },
+ {
+  "name": "Devdiscourse",
+  "url": "http://www.devdiscourse.com/rss/website",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793141787,
+  "site": "devdiscourse.com"
+ },
+ {
+  "name": "CGTN Türk",
+  "url": "https://cgtnturk.com/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793141787,
+  "site": "cgtnturk.com"
+ },
+ {
+  "name": "CentralAsia.media",
+  "url": "https://centralasia.media/rss/",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793185561,
+  "site": "centralasia.media"
+ },
+ {
+  "name": "Business News",
+  "url": "https://businessnews.com.tn/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793185561,
+  "site": "businessnews.com.tn"
+ },
+ {
+  "name": "الوكيل الإخباري",
+  "url": "https://alwakeelnews.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793186418,
+  "site": "alwakeelnews.com"
+ },
+ {
+  "name": "وزارة المالية",
+  "url": "https://mof.gov.ly/feed/",
+  "lang": "ar",
+  "type": "official",
+  "all": true,
+  "auto": true,
+  "added": 1793538838,
+  "site": "mof.gov.ly"
+ },
+ {
+  "name": "وزارة التربية والتعليم",
+  "url": "https://moe.gov.ly/feed/",
+  "lang": "ar",
+  "type": "official",
+  "all": true,
+  "auto": true,
+  "added": 1793538838,
+  "site": "moe.gov.ly"
+ },
+ {
+  "name": "وزارة الدفاع",
+  "url": "https://mod.gov.ly/feed/",
+  "lang": "ar",
+  "type": "official",
+  "all": true,
+  "auto": true,
+  "added": 1793538838,
+  "site": "mod.gov.ly"
+ },
+ {
+  "name": "مجلس النواب",
+  "url": "https://parliament.ly/feed/",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1793538838,
+  "site": "parliament.ly"
+ },
+ {
+  "name": "المركز الوطني لمكافحة الأمراض",
+  "url": "https://ncdc.org.ly/Ar/rsslatest.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": true,
+  "auto": true,
+  "added": 1793538838,
+  "site": "ncdc.org.ly"
+ },
+ {
+  "name": "شبكة تواصل الإخبارية",
+  "url": "https://twaslnews1.twaslnews.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "twaslnews1.twaslnews.com"
+ },
+ {
+  "name": "العربي الجديد",
+  "url": "https://www.aajsy.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "aajeg.com"
+ },
+ {
+  "name": "العربي الجديد - ليبيا",
+  "url": "https://www.aajsy.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "aajqa.com"
+ },
+ {
+  "name": "العربي الجديد - ليبيا",
+  "url": "https://www.aajsy.com/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "aajsy.com"
+ },
+ {
+  "name": "Son Dakika",
+  "url": "http://rss.sondakika.com/rss.asp",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "sondakika.com"
+ },
+ {
+  "name": "Haber 7",
+  "url": "https://i12.haber7.net/sondakika/newsstand/latest.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "haber7.com"
+ },
+ {
+  "name": "بوابة مولانا",
+  "url": "https://mwlana.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "mwlana.com"
+ },
+ {
+  "name": "الوقائع الإخبارية",
+  "url": "https://jo24.net/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "jo24.net"
+ },
+ {
+  "name": "العربي الجديد",
+  "url": "https://www.aajae.co/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "aajae.co"
+ },
+ {
+  "name": "Sport News Africa",
+  "url": "https://sportnewsafrica.com/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793560455,
+  "site": "sportnewsafrica.com"
+ },
+ {
+  "name": "العربي الجديد",
+  "url": "https://www.alaraby.co.uk/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "aajeg.com"
+ },
+ {
+  "name": "العربي الجديد - ليبيا",
+  "url": "https://www.alaraby.co.uk/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "aajqa.com"
+ },
+ {
+  "name": "Son Dakika",
+  "url": "http://rss.sondakika.com/rss.asp",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "sondakika.com"
+ },
+ {
+  "name": "ANSA",
+  "url": "https://ansa.it/rss.xml",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "ansa.it"
+ },
+ {
+  "name": "Zazoom Social News",
+  "url": "https://www.zazoom.it/rss.asp",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "zazoom.it"
+ },
+ {
+  "name": "Haber 7",
+  "url": "https://i12.haber7.net/sondakika/newsstand/latest.xml",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "haber7.com"
+ },
+ {
+  "name": "Infobae",
+  "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/america/mundo/",
+  "lang": "es",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "infobae.com"
+ },
+ {
+  "name": "France 24",
+  "url": "https://www.france24.com/en/rss",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "france24.com"
+ },
+ {
+  "name": "Tuniscope",
+  "url": "https://tuniscope.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "tuniscope.com"
+ },
+ {
+  "name": "Africanews",
+  "url": "https://africanews.com/feed/",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "africanews.com"
+ },
+ {
+  "name": "Pronews.gr",
+  "url": "https://pronews.gr/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "el",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "pronews.gr"
+ },
+ {
+  "name": "Operativ Məlumat Mərkəzi",
+  "url": "https://operativmm.az/rss.xml",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "operativmm.az"
+ },
+ {
+  "name": "Notizie Geopolitiche",
+  "url": "https://www.notiziegeopolitiche.net/feed/",
+  "lang": "it",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "notiziegeopolitiche.net"
+ },
+ {
+  "name": "Lenta News",
+  "url": "https://lenta.ru/rss/google-newsstand/main/",
+  "lang": "ru",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "lenta.ru"
+ },
+ {
+  "name": "اندبندنت عربية",
+  "url": "https://www.independentarabia.com/rss.xml",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "independentarabia.com"
+ },
+ {
+  "name": "Africanews",
+  "url": "https://fr.africanews.com/feed/",
+  "lang": "fr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "fr.africanews.com"
+ },
+ {
+  "name": "صوت الإمارات",
+  "url": "https://voiceofemirates.com/wp-json/wp/v2/posts?per_page=20&_fields=link,title,date_gmt,excerpt",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "voiceofemirates.com"
+ },
+ {
+  "name": "Tunisien.tn",
+  "url": "https://tunisien.tn/feed",
+  "lang": "ar",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "tunisien.tn"
+ },
+ {
+  "name": "streamlinefeed.co.ke",
+  "url": "https://streamlinefeed.co.ke/api/rss",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "streamlinefeed.co.ke"
+ },
+ {
+  "name": "Mezha.net",
+  "url": "https://mezha.net/feed/",
+  "lang": "en",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "mezha.net"
+ },
+ {
+  "name": "AKŞAM",
+  "url": "https://m.aksam.com.tr/rss",
+  "lang": "tr",
+  "type": "news",
+  "all": false,
+  "auto": true,
+  "added": 1793561313,
+  "site": "m.aksam.com.tr"
+ }
+]
