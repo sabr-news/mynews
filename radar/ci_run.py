@@ -25,7 +25,11 @@ def main(out_dir):
     col = K.Collector(store, extra)
     now = datetime.now(timezone.utc)
     first = store.stats()["total"] < 200
-    mode = "deep" if first else ("full" if now.minute < 20 else "fast")
+    ts = int(time.time())
+    last_full = int(store.meta_get("ci_last_full", "0") or 0)
+    mode = "deep" if first else ("full" if ts - last_full > 55 * 60 else "fast")     # شاملة كل ساعة تقريباً مهما تأخرت الجدولة
+    if mode != "fast":
+        store.meta_set("ci_last_full", ts)
     t0 = time.time()
     K.log("CI: بدأ (%s)" % mode)
     col.run_cycle(mode, workers=12)
@@ -33,7 +37,8 @@ def main(out_dir):
         col.run_prestige("lane")
     col.run_direct()
     # الاكتشاف كل ساعتين تقريباً
-    if now.hour % 2 == 0 and now.minute < 20:
+    if ts - int(store.meta_get("ci_last_disc", "0") or 0) > 100 * 60:
+        store.meta_set("ci_last_disc", ts)
         try:
             from .discover import Discoverer
             app = SimpleNamespace(store=store, extra=extra, collector=col, stop=threading.Event(), refresh=lambda m: None)
