@@ -107,6 +107,12 @@ def http_get(url, timeout=None, headers=None, retries=2, cond=None, out=None):
             if e.code == 304 and cond:
                 return None, None
             last = "HTTP %s" % e.code
+            if e.code == 403 and not (headers or {}).get("User-Agent"):
+                for ua in C.ALT_UAS:   # بعض المواقع تحجب المتصفحات الآلية وتسمح لقارئات RSS
+                    try:
+                        return http_get(url, timeout=timeout, headers={"User-Agent": ua}, retries=0, cond=cond, out=out)
+                    except Exception:
+                        pass
             if e.code in (404, 403, 401, 410):
                 break
             if e.code == 429:
@@ -166,7 +172,20 @@ def parse_feed(text):
         root = ET.fromstring(text.encode("utf-8"))
     except ET.ParseError:
         text = re.sub(r"&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)", "&amp;", text)
-        root = ET.fromstring(text.encode("utf-8"))
+        try:
+            root = ET.fromstring(text.encode("utf-8"))
+        except ET.ParseError:
+            # ملف مقطوع أو معطوب: نستخرج العناصر المكتملة فقط بدل رفض الخلاصة كلها
+            good = []
+            for m in re.finditer(r"<(item|entry)\b.*?</\1>", text, re.S):
+                try:
+                    ET.fromstring(m.group(0).encode("utf-8"))
+                    good.append(m.group(0))
+                except ET.ParseError:
+                    continue
+            if not good:
+                raise
+            root = ET.fromstring(("<rss><channel>" + "".join(good) + "</channel></rss>").encode("utf-8"))
     out = []
     for el in root.iter():
         t = _strip_ns(el.tag)
@@ -297,6 +316,8 @@ def site_jobs(mode="fast", extra=()):
     jobs = []
     for dom in dict.fromkeys(list(C.LIBYAN_SITES) + list(extra)):
         lg = "ar" if dom.split(".")[-1] in ("ly", "tv", "net", "co") and "herald" not in dom and "review" not in dom and "update" not in dom and "observer" not in dom else "en"
+        if dom in C.AR_COM_SITES:
+            lg = "ar"
         jobs.append(("GoogleSite/%s" % dom, _gnews_url("site:" + dom, "ar" if lg == "ar" else "en", "LY:ar" if lg == "ar" else "US:en", when), lg, "site:" + dom, dom not in C.MIXED_SITES))
     return jobs
 

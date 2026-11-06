@@ -173,7 +173,11 @@ class App:
                 self.collector.run_direct()
             except Exception:
                 traceback.print_exc()
-            if self.stop.wait(180):
+            dl = time.time() + 180
+            while time.time() < dl and not self.stop.is_set():
+                if self.stop.wait(10):
+                    return
+            if self.stop.is_set():
                 return
 
     def _loop(self):
@@ -187,7 +191,10 @@ class App:
             except Exception:
                 traceback.print_exc()
             n += 1
-            self.wake.wait(C.CYCLE_MINUTES * 60)
+            # انتظار بالساعة الفعلية (لا يتجمّد إذا نام الحاسوب)
+            dl = time.time() + C.CYCLE_MINUTES * 60
+            while not self.stop.is_set() and not self.wake.is_set() and time.time() < dl:
+                self.wake.wait(10)
             self.wake.clear()
 
     def refresh(self, mode="full"):

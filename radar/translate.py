@@ -88,16 +88,22 @@ class Translator(threading.Thread):
         self.failed = {}
         self.name_failed = {}
         self.stats = {"translated": 0, "names": 0, "errors": 0}
+        self._reset = time.time()
 
     def run(self):
         backoff = 0
         while not self.stop_event.is_set():
             did = 0
             try:
-                if PRIORITY[0] or time.time() < _STATE["cool"]:
+                if PRIORITY[0]:
                     self.stop_event.wait(3)
                     continue
-                for it in self.store.pending_translations(10, exclude={k for k, v in self.failed.items() if v >= 3}):
+                if time.time() - self._reset > 3600:   # أعد المحاولة بما فشل سابقاً
+                    self.failed.clear()
+                    self.name_failed.clear()
+                    self._reset = time.time()
+                cooling = time.time() < _STATE["cool"]   # جوجل في تهدئة: نكمل ببطء عبر MyMemory بدل التوقف
+                for it in self.store.pending_translations(3 if cooling else 10, exclude={k for k, v in self.failed.items() if v >= 3}):
                     t = to_arabic(it["title"], it["lang"])
                     if t and N.has_arabic(t):
                         self.store.set_title_ar(it["id"], t)
@@ -108,10 +114,10 @@ class Translator(threading.Thread):
                         self.failed[it["id"]] = self.failed.get(it["id"], 0) + 1
                         self.stats["errors"] += 1
                         backoff = min(backoff + 1, 6)
-                    time.sleep(0.3 + 0.5 * backoff)
+                    time.sleep((2.0 if cooling else 0.3) + 0.5 * backoff)
                     if self.stop_event.is_set():
                         return
-                    if PRIORITY[0] or time.time() < _STATE["cool"]:
+                    if PRIORITY[0]:
                         break
                 for src in self.store.pending_names(8, exclude={k for k, v in self.name_failed.items() if v >= 2}):
                     t = to_arabic(src)

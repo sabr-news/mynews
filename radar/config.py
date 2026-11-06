@@ -6,7 +6,7 @@ import os
 
 APP_NAME = "أخباري"
 APP_NAME_EN = "My News"
-APP_VERSION = "2.1"
+APP_VERSION = "2.2"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.environ.get("RADAR_DATA", os.path.join(os.path.dirname(BASE_DIR), "data"))
@@ -31,7 +31,8 @@ PORT = int(os.environ.get("RADAR_PORT") or os.environ.get("PORT") or "8765")
 # كل كم دقيقة تُجمع الأخبار (الجامع العام GDELT محدود بطلب كل ~5 ثوانٍ فنراعي ذلك)
 CYCLE_MINUTES = int(os.environ.get("RADAR_CYCLE_MIN", "10"))
 HTTP_TIMEOUT = 25
-USER_AGENT = "Mozilla/5.0 (compatible; LibyaRadar/1.0; +local-news-monitor)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+ALT_UAS = ["Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)", "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"]
 
 # ---------------------------------------------------------------------------
 # قاموس الكيانات الليبية (متعدد اللغات).  strong = يكفي وحده لاعتبار الخبر ليبياً
@@ -295,14 +296,15 @@ TITLE_SIM_THRESHOLD = 0.5
 # مواقع ليبية (كلها عن ليبيا): تُجلب أحدث أخبارها عبر بحث site: في جوجل نيوز،
 # فلا تضيع حتى لو تعطل RSS الخاص بها أو لم يكن موجوداً. أضف مواقعك هنا.
 LIBYAN_SITES = [
-    "alwasat.ly", "libyaobserver.ly", "libyaalahrar.net", "libyaherald.com", "libyareview.com", "libyaupdate.com",
+    "alwasat.ly", "mcg24.com", "roayahnews.com", "alaraby.co.uk", "fassatoday.com", "addresslibya.com", "libyaobserver.ly", "libyaalahrar.net", "libyaherald.com", "libyareview.com", "libyaupdate.com",
     "libya24.tv", "libyaakhbar.com", "almarsad.co", "218tv.net", "alwatan.ly", "libyaschannel.com", "libyanexpress.com",
     "ean.ly", "lana.gov.ly", "cbl.gov.ly", "noc.ly", "unsmil.unmissions.org", "libyaoutlook.com", "aljazeera.net/where/libya",
     "almotamar.ly", "alayam.ly", "fawasel.com", "libyaobserver.ly", "libyaalmostakbal.com", "ain-libya.com", "libyanow.com",
 ]
 
 # مواقع تنشر أخباراً دولية أيضاً: لا تُقبل كل أخبارها، بل ما فيه كيان ليبي فقط
-MIXED_SITES = ["alwasat.ly", "218tv.net", "aljazeera.net/where/libya", "alayam.ly", "fawasel.com"]
+AR_COM_SITES = {"mcg24.com", "roayahnews.com", "alaraby.co.uk"}
+MIXED_SITES = ["alaraby.co.uk", "alwasat.ly", "218tv.net", "aljazeera.net/where/libya", "alayam.ly", "fawasel.com"]
 
 
 # مرشّحون: مواقع ليبية يتحقق منها المكتشف تلقائياً (يبحث عن RSS؛ وإن لم يجد يضيفها لاستعلامات جوجل site:)
